@@ -34,8 +34,6 @@ AI-powered waste classification and recycling recommendation system built using 
 
 ## Project Structure
 
-## Project Structure
-
 ```text
 EcoSort-AI/
 ├── backend/
